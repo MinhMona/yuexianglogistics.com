@@ -1,0 +1,1207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\OneDrive\Máy tính\WF</_PublishTargetUrl>
+    <History>True|2022-10-26T03:49:51.2553845Z;True|2022-10-25T15:00:16.5378376+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App.Master">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="App_Themes/AdminNew45/assets/js/select2/select2-materialize.css">
+      <publishTime>04/28/2021 11:00:46</publishTime>
+    </File>
+    <File Include="App_Themes/AdminNew45/assets/js/select2/select2.full.min.js">
+      <publishTime>04/28/2021 11:00:46</publishTime>
+    </File>
+    <File Include="App_Themes/AdminNew45/assets/js/select2/select2.min.css">
+      <publishTime>04/28/2021 11:00:46</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/bill.css">
+      <publishTime>10/11/2021 16:51:40</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/bar-code.png">
+      <publishTime>06/17/2021 10:01:18</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/logo-bill.png">
+      <publishTime>06/09/2021 11:13:22</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/qr-code.png">
+      <publishTime>06/09/2021 13:11:51</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/register.png">
+      <publishTime>05/21/2021 17:06:39</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/tth-1.png">
+      <publishTime>06/24/2021 16:10:28</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/tth-2.png">
+      <publishTime>06/24/2021 16:10:58</publishTime>
+    </File>
+    <File Include="App_Themes/YuLogis/images/zalo.png">
+      <publishTime>03/10/2020 10:33:46</publishTime>
+    </File>
+    <File Include="bang-gia.aspx">
+      <publishTime>04/28/2021 11:02:19</publishTime>
+    </File>
+    <File Include="bang-tich-luy-diem.aspx">
+      <publishTime>04/28/2021 11:02:19</publishTime>
+    </File>
+    <File Include="bang-tich-luy-diem1.aspx">
+      <publishTime>04/28/2021 11:02:19</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>04/28/2021 11:02:19</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>04/28/2021 11:02:19</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>04/28/2021 11:02:19</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>04/28/2021 11:04:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/28/2021 11:04:15</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>04/28/2021 11:04:15</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/LeoUtils.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/MB.Extensions.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>04/28/2021 11:04:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>04/28/2021 11:04:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>04/28/2021 11:04:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>04/28/2021 11:04:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>04/28/2021 11:04:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>04/28/2021 11:04:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationBlocks.Data.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>04/28/2021 11:04:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Client.dll">
+      <publishTime>04/28/2021 11:04:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>04/28/2021 11:04:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>04/28/2021 11:04:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>04/28/2021 11:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/28/2021 11:04:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/NetOceanSDKLib.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/28/2021 11:04:24</publishTime>
+    </File>
+    <File Include="bin/NHST.dll">
+      <publishTime>10/26/2022 10:49:50</publishTime>
+    </File>
+    <File Include="bin/NHST.pdb">
+      <publishTime>10/26/2022 10:49:50</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>04/28/2021 11:04:27</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/28/2021 11:04:23</publishTime>
+    </File>
+    <File Include="bin/Supremes.dll">
+      <publishTime>04/28/2021 11:02:21</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>04/28/2021 11:04:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>04/28/2021 11:04:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>04/28/2021 11:04:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>04/28/2021 11:02:22</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>04/28/2021 11:02:22</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>04/28/2021 11:02:22</publishTime>
+    </File>
+    <File Include="bin/TopSdk.dll">
+      <publishTime>04/28/2021 11:02:22</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>04/28/2021 11:02:22</publishTime>
+    </File>
+    <File Include="bin/WebPush.dll">
+      <publishTime>04/28/2021 11:04:32</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Cart.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Cart1.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Cart2.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-khac-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-van-chuyen-ho-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-van-chuyen-ho.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="chi-tiet-thanh-toan-ho.aspx">
+      <publishTime>05/14/2021 17:08:18</publishTime>
+    </File>
+    <File Include="chi-tiet-trang.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="Chi-tiet-van-chuyen.aspx">
+      <publishTime>05/28/2021 09:01:44</publishTime>
+    </File>
+    <File Include="chinh-sach.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="ClientMaster.Master">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="ClientMasterLogined.Master">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="ClientMasterNew.Master">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="cong-cu-dat-hang.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="cong-cu.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="dang-ky.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="dang-nhap.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="dang-xuat.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="danh-muc-trang.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="danh-sach-don-hang-khac-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="danh-sach-don-hang.aspx">
+      <publishTime>05/27/2021 15:00:05</publishTime>
+    </File>
+    <File Include="danh-sach-don-van-chuyen-ho.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="danh-sach-kien-ky-gui-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="danh-sach-kien-yeu-cau-ky-gui.aspx">
+      <publishTime>05/28/2021 09:43:10</publishTime>
+    </File>
+    <File Include="danh-sach-san-pham.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="danh-sach-thanh-toan-ho.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="dashboard.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="dat-hang-ngoai-he-thong-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="dat-hang-thanh-cong.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/24/2021 16:45:27</publishTime>
+    </File>
+    <File Include="Default1.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default2.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default3.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default4.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default5.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default6.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default7.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Default8.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="demon.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="diem-tich-luy-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="don-hang-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="FilesResources/ToolContent.xml">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="FilesResources/ToolsBasic.xml">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="gio-hang-thanh-toan-ho.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="gioi-thieu.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="HandlerCS.ashx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="ho-tro.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="home-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="huong-dan.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="Including/uMenuSidebar.ascx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="khieu-nai-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="khieu-nai.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="kich-hoat-tai-khoan.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="kien-troi-noi.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="lich-su-giao-dich-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="lich-su-giao-dich-tien-te-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="lich-su-giao-dich-tien-te.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="lich-su-nap-tien.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="Lien-he.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="manager/accountant-outstock-payment.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/accountant-payment.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Accountant-User-List.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/add-another-order.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/add-package-customer.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/add-transportation-new.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/add-transportation.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/add-wallet-user.aspx">
+      <publishTime>05/12/2021 16:04:05</publishTime>
+    </File>
+    <File Include="manager/add-withdraw.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/AddLinkMarquee.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/AddMenu.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/AddPage.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/AddPageType.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/AddParentMenu.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/AddRefund.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/AddRequestRechargeCYN.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/admin-noti.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/admin-staff-income.aspx">
+      <publishTime>05/19/2021 14:37:43</publishTime>
+    </File>
+    <File Include="manager/adminMaster.Master">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/adminMasterNew.Master">
+      <publishTime>06/09/2022 09:07:28</publishTime>
+    </File>
+    <File Include="manager/BankList.aspx">
+      <publishTime>05/28/2021 15:38:41</publishTime>
+    </File>
+    <File Include="manager/Barcode-Package.aspx">
+      <publishTime>05/31/2021 17:51:43</publishTime>
+    </File>
+    <File Include="manager/BigPackageDetail.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Cart-Customer.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Check-package.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/chi-tiet-phien-xuat-kho-vch.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Chi-tiet-thanh-toan-ho.aspx">
+      <publishTime>05/27/2021 16:27:34</publishTime>
+    </File>
+    <File Include="manager/chi-tiet-vch.aspx">
+      <publishTime>10/08/2021 11:58:33</publishTime>
+    </File>
+    <File Include="manager/ComplainList.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Configuration.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/danh-sach-phien-xuat-kho-ky-gui.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/danh-sach-ptvc-tai-viet-nam.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/danh-sach-thanh-toan-ho.aspx">
+      <publishTime>05/21/2021 17:09:23</publishTime>
+    </File>
+    <File Include="manager/danh-sach-vch.aspx">
+      <publishTime>06/13/2022 13:44:03</publishTime>
+    </File>
+    <File Include="manager/danh-sach-yeu-cau-giao-hang.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Edit-Paget-Type.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Edit-Transportation.aspx">
+      <publishTime>06/29/2021 11:43:09</publishTime>
+    </File>
+    <File Include="manager/EditMenu.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/EditPage.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/favicon.ico">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/FeecheckproductList.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/FeePackagedDetail.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/generatefeeweight.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/History-Pay-Order.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/HistorySendWallet.aspx">
+      <publishTime>05/19/2021 13:45:00</publishTime>
+    </File>
+    <File Include="manager/HistorySendWalletAccountant.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/HistorySendWalletSale.aspx">
+      <publishTime>05/19/2021 13:58:26</publishTime>
+    </File>
+    <File Include="manager/Home-Config.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/home.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/import_smallpackage.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/import_smallpackage_vn.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/kien-that-lac.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/kien-troi-noi.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/login.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/MenuList.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Noti-app-list.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Order-Transaction-Code.aspx">
+      <publishTime>07/01/2021 10:49:22</publishTime>
+    </File>
+    <File Include="manager/OrderDetail.aspx">
+      <publishTime>07/09/2021 14:43:53</publishTime>
+    </File>
+    <File Include="manager/OrderList.aspx">
+      <publishTime>05/28/2021 09:50:11</publishTime>
+    </File>
+    <File Include="manager/outstock-finish-vch.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/outstock-finish.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/OutStock-TQ.aspx">
+      <publishTime>05/28/2021 16:05:03</publishTime>
+    </File>
+    <File Include="manager/outstock-vch-user.aspx">
+      <publishTime>10/11/2021 15:11:07</publishTime>
+    </File>
+    <File Include="manager/outstock-vch.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/OutStock.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Package-Detail.aspx">
+      <publishTime>10/25/2022 14:27:54</publishTime>
+    </File>
+    <File Include="manager/PackageList-TQ.aspx">
+      <publishTime>05/11/2021 14:44:53</publishTime>
+    </File>
+    <File Include="manager/Page-Type-List.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/PageList.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Pay-Order.aspx">
+      <publishTime>07/07/2021 16:25:40</publishTime>
+    </File>
+    <File Include="manager/PriceChangeInfo.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/PriceChangeList.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/PrintStamp.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/ProductEdit.aspx">
+      <publishTime>07/05/2021 17:34:53</publishTime>
+    </File>
+    <File Include="manager/push-noti-app-user.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/push-noti-app.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/RechargeCYN.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/refund-cyn.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/refundDetail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/report-buypro.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/report-compare.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Report-Income.aspx">
+      <publishTime>05/27/2021 15:10:32</publishTime>
+    </File>
+    <File Include="manager/report-loinhuan-thanhtoanho.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/report-money.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Report-order.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Report-Orders.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Report-Outstock.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Report-recharge.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Report-User-Use-Wallet.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/Report-user-wallet.aspx">
+      <publishTime>04/28/2021 11:00:34</publishTime>
+    </File>
+    <File Include="manager/report-vch.aspx">
+      <publishTime>06/13/2022 14:19:09</publishTime>
+    </File>
+    <File Include="manager/ReportManagerDealer.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/ReportManagerSale.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/request-outstock-vch.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/request-ship-list.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/RequestRechargeCYN.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/RequestShipDetail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/sale-userlist.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Saler-AddUser.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/ServiceList.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/shippingtypelist.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/SmallPackage-Detail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/SocialSupportList.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/staff-income.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/stafflist.aspx">
+      <publishTime>05/12/2021 13:30:49</publishTime>
+    </File>
+    <File Include="manager/StockGate.aspx">
+      <publishTime>05/28/2021 16:10:07</publishTime>
+    </File>
+    <File Include="manager/Super-Detail.aspx">
+      <publishTime>06/16/2021 11:43:34</publishTime>
+    </File>
+    <File Include="manager/Super-Package.aspx">
+      <publishTime>06/28/2021 09:59:14</publishTime>
+    </File>
+    <File Include="manager/tao-don-hang-khac.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/tao-don-ky-gui.aspx">
+      <publishTime>09/24/2022 21:56:43</publishTime>
+    </File>
+    <File Include="manager/Tariff-Buypro.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/tariff-feeBuyPro-detail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Tariff-TQVN-Detail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Tariff-TQVN.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/thanh-toan-ho-dat-hang.aspx">
+      <publishTime>05/21/2021 17:07:24</publishTime>
+    </File>
+    <File Include="manager/thanh-toan-ho-sale.aspx">
+      <publishTime>05/21/2021 17:19:31</publishTime>
+    </File>
+    <File Include="manager/thiet-lap-thong-bao.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/TQWareHouse-DHH.aspx">
+      <publishTime>05/28/2021 10:17:55</publishTime>
+    </File>
+    <File Include="manager/TQWareHouse.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/trade-history.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Trans-User.aspx">
+      <publishTime>05/17/2021 17:35:14</publishTime>
+    </File>
+    <File Include="manager/transportation-list.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/transportationdetail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/User-Level.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/user-order.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/User-Transaction.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/UserInfo.aspx">
+      <publishTime>05/14/2021 09:52:12</publishTime>
+    </File>
+    <File Include="manager/UserLeverInfo.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/userlist-deal.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/userlist-sale.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/UserList.aspx">
+      <publishTime>05/26/2021 13:30:31</publishTime>
+    </File>
+    <File Include="manager/UserWallet.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/van-chuyen-sale.aspx">
+      <publishTime>05/18/2021 18:06:58</publishTime>
+    </File>
+    <File Include="manager/Verification-Cart.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/view-outstock-session.aspx">
+      <publishTime>05/28/2021 13:22:04</publishTime>
+    </File>
+    <File Include="manager/view-outstock.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/VNWarehouse-DHH.aspx">
+      <publishTime>06/13/2022 14:16:00</publishTime>
+    </File>
+    <File Include="manager/VNWarehouse.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Warehouse-from-list.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Warehouse-Management.aspx">
+      <publishTime>10/11/2021 15:01:55</publishTime>
+    </File>
+    <File Include="manager/warehouse-to-list.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/WebChinaList.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/WeightPriceInfo.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/WeigtPricehList.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/Withdraw-List.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/withdrawdetail.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="manager/yeu-cau-giao.aspx">
+      <publishTime>04/28/2021 11:00:35</publishTime>
+    </File>
+    <File Include="mat-khau-moi.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="MinhAnMaster.Master">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="Models/NHSTEntities.edmx.diagram">
+      <publishTime>06/13/2022 13:59:54</publishTime>
+    </File>
+    <File Include="Models/phonecode.json">
+      <publishTime>04/28/2021 11:01:56</publishTime>
+    </File>
+    <File Include="nap-tien-app.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="nap-tien-chuyen-khoan-theo-tai-khoan.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="nap-tien-chuyen-khoan-tu-dong.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="nap-tien-te.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="nap-tien.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="nhaphangazMaster.Master">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="nhaphangazMasterNew.Master">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="NHSTExchangeRate.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="NO-IMAGE.jpg">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="noi-dung.aspx">
+      <publishTime>04/28/2021 11:02:24</publishTime>
+    </File>
+    <File Include="OrderTemp.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="OTP.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="printPhieu.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="privacy-policy.html">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="PUSHDEMO.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="PushNotiAuto.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="quan-ly-van-chuyen.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="quen-mat-khau.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="requestOrder.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="robots.txt">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="rut-tien-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="rut-tien-te-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="rut-tien.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="rut-tien1.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.min.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.map">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.6.4.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.6.4.min.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery.signalR-2.2.3.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/jquery.signalR-2.2.3.min.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/modernizr-2.6.2.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/respond.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/respond.min.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/DetailsView.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/Focus.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/GridView.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/Menu.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MenuStandards.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/SmartNav.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/TreeView.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/WebForms.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/WebParts.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="scripts/WebForms/WebUIValidation.js">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="serajax/NHTQServices.asmx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="sitemap.xml">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="smallpackage-auto.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-don-hang-khac.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-don-hang-van-chuyen-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-don-hang-van-chuyen.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-don-thanh-toan-ho-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-don-thanh-toan-ho.aspx">
+      <publishTime>06/24/2021 16:43:09</publishTime>
+    </File>
+    <File Include="tao-ky-gui-hang.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-ma-van-don-ky-gui-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="tao-ma-van-don-ky-gui.aspx">
+      <publishTime>10/24/2022 16:05:34</publishTime>
+    </File>
+    <File Include="Thanh-toan.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="them-khieu-nai-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="them-khieu-nai.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="theo-doi-mvd.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="thong-bao-cua-ban.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="thong-ke-cuoc-ky-gui-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="thong-ke-cuoc-ky-gui.aspx">
+      <publishTime>05/28/2021 09:45:48</publishTime>
+    </File>
+    <File Include="thong-tin-nguoi-dung.aspx">
+      <publishTime>05/07/2021 17:37:44</publishTime>
+    </File>
+    <File Include="ThuongHaiOrderMaster.Master">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="Tracking-app.aspx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="tracking-mvd.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="trang-chu.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="TrungVietOrder.Master">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="UC/uc_Banner.ascx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="UC/uc_Sidebar.ascx">
+      <publishTime>04/28/2021 11:01:57</publishTime>
+    </File>
+    <File Include="Uploads/giay-uy-quyen/giay-uy-quyen.PNG">
+      <publishTime>04/28/2021 11:02:07</publishTime>
+    </File>
+    <File Include="Uploads/Images/WebService1.asmx">
+      <publishTime>04/28/2021 11:02:00</publishTime>
+    </File>
+    <File Include="UserInfo.aspx">
+      <publishTime>04/28/2021 11:02:07</publishTime>
+    </File>
+    <File Include="UserMasterNew.Master">
+      <publishTime>05/12/2021 13:53:39</publishTime>
+    </File>
+    <File Include="van-chuyen-ho-app.aspx">
+      <publishTime>04/28/2021 11:04:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/25/2022 15:00:14</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/28/2021 11:02:07</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>04/28/2021 11:02:07</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>04/28/2021 11:02:07</publishTime>
+    </File>
+    <File Include="Website-under-contructing.aspx">
+      <publishTime>04/28/2021 11:02:07</publishTime>
+    </File>
+    <File Include="YuxiangMaster.Master">
+      <publishTime>04/28/2022 16:00:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

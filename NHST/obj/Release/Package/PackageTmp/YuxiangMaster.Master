@@ -1,0 +1,273 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="YuxiangMaster.master.cs" Inherits="NHST.YuxiangMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta property="og:title" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:description" content="">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="shortcut icon" href="" type="image/x-icon" />
+    <link rel="stylesheet" href="/App_Themes/YuLogis/js/WOW-master/animate.css" />
+    <link rel="stylesheet" href="/App_Themes/YuLogis/js/Magnific-Popup-master/magnific-popup.css" />
+   <%-- <link rel="stylesheet" href="/App_Themes/YuLogis/js/Font-awesome-4.7.0/css/font-awesome.min.css" />--%>
+    <link rel="stylesheet" href="/App_Themes/YuLogis/js/FontAwesome/css/all.min.css" />
+    <link rel="stylesheet" href="/App_Themes/YuLogis/js/ms-Dropdown-master/css/msdropdown/dd.css">
+    <link rel="stylesheet" href="/App_Themes/YuLogis/css/style.css" />
+    <title>Yuexiang Logistics</title>
+
+    <script src="/App_Themes/YuLogis/js/jquery-3.4.1.min.js"></script>
+
+    <link href="App_Themes/NewUI/js/sweet/sweet-alert.css" rel="stylesheet" />
+    <asp:Literal runat="server" ID="ltrHeader"></asp:Literal>
+    <asp:Literal ID="ltrSEO" runat="server"></asp:Literal>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Literal ID="ltr_infor" runat="server"></asp:Literal>
+        <%--header--%>
+        <header>
+            <div class="header">
+                <div class="header-top">
+                    <div class="container isner">
+                        <div class="header-top-left">
+                           <%-- <asp:Literal runat="server" ID="ltrTygia"></asp:Literal>--%>
+                            <asp:Literal runat="server" ID="ltrMail"></asp:Literal>
+                        </div>
+                        <div class="header-top-right">
+                            <ul class="list-social">
+                                <asp:Literal runat="server" ID="ltrSocial"></asp:Literal>
+                            </ul>
+                            <div class="user-box">
+                                <!-- <div class="icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></div>
+                            <a href="#">Đăng nhập</a>
+                            <span> / </span>
+                            <a href="#">Đăng kí</a> -->
+                                <div class="acc-info">
+                                    <asp:Literal runat="server" ID="ltrLogin"></asp:Literal>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-bottom">
+                    <div class="container isner">
+                        <div class="main-logo">
+                            <a href="/">
+                                <!-- LOGO -->
+                                <asp:Literal runat="server" ID="ltrLogo"></asp:Literal>
+                            </a>
+                        </div>
+                        <div class="main-menu">
+                            <ul class="main-menu-nav">
+                                <asp:Literal runat="server" ID="ltrMenu"></asp:Literal>
+                            </ul>
+                            <div class="main-menu-overlay"></div>
+                        </div>
+                        <div class="hamburger-btn main-menu-btn">
+                            <div class="bar"></div>
+                        </div>
+                        <div class="hotline">
+                            <a href="tel:1900 0301">
+                                <span class="icon-phone">
+                                    <img src="/App_Themes/YuLogis/images/phone.png" alt="">
+                                </span>
+                                <span class="text">
+                                    <asp:Literal runat="server" ID="ltrHotPhone"></asp:Literal>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <%--footer--%>
+        <footer class="footer">
+            <div class="table-footer">
+                <div class="container">
+                    <div class="columns">
+                        <div class="colum">
+                            <div class="content-ft">
+                                <div class="logo-ft">
+                                    <a href="#">
+                                        <!-- LOGO -->
+                                        <img src="/App_Themes/YuLogis/images/logo-white.png" alt="">
+                                    </a>
+                                </div>
+                                <p class="desc">
+                                    <span class="font-bold-1">Trụ sở chính tại Trung Quốc:
+                                    </span>
+                                    JIANGJUN ROAD - HOUJIE TOWN , DONGGUAN CITY, GUANGDONG PROVINCE, CHINA
+                                </p>
+                            </div>
+                        </div>
+                        <div class="colum">
+                            <div class="content-ft">
+                                <h5 class="title">VĂN PHÒNG ĐẠI DIỆN
+                                </h5>
+                                <ul class="list-ft">
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Tại Hà Nội:</span>  66 Lương Khánh Thiện, Phường Tân Mai, Quận Hoàng Mai, Hà Nội </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Tại Hồ Chí Minh:</span> Đường Trung Mỹ Tây 2A, Phường Trung Mỹ Tây, Quận 12, Tp. Hồ Chí Minh</a>
+                                    </li>
+                                    <li>
+                                        <a href="tel:1900 0301"><span class="font-bold-1">Hotline:</span> 1900 0301</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Website:</span> Yuexianglogistics.com</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="colum">
+                            <div class="content-ft padd-l-50">
+                                <h5 class="title">HỆ THỐNG KHO
+                                </h5>
+                                <ul class="list-ft">
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Kho Đông Quản:</span>   广东省东莞市厚街镇祥鸿国际农批城A2区08号，越翔物流：13149911652 </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Kho Hà Nội:</span> Hoàng Mai, Hà Nội</a>
+                                    </li>
+                                    <li>
+                                        <a href="tel:024733733"><span class="font-bold-1">Kho Tp. Hồ Chí Minh:</span> Quận 12, tp. Hồ Chí Minh</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Kho Hưng Yên</span> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><span class="font-bold-1">Kho Hải Dương</span> </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="colum">
+                            <div class="content-ft">
+                                <h5 class="title">Mạng xã hội
+                                </h5>
+                                <ul class="list-ft-social">
+                                    <asp:Literal runat="server" ID="ltrSocialFT"></asp:Literal>
+                                </ul>
+                                <div class="box-fanpage">
+                                    <div class="fb-page" data-href="https://www.facebook.com/Yuexiang-Logistics-507664389376553/" data-tabs="timeline" data-width="270" data-height="200" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                        <blockquote cite="https://www.facebook.com/Yuexiang-Logistics-507664389376553/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Yuexiang-Logistics-507664389376553/">Yuexiang Logistics</a></blockquote>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copy-right">
+                © Copyright Yuexianglogistics
+            </div>
+        </footer>
+        <a href="https://zalo.me/0983811163" target="_blank" class="fixed-contact contact-zalo">
+            <img src="/App_Themes/YuLogis/images/zalo.png" alt=""></a>
+        <div class="m-backtotop" aria-hidden="true">
+            <div class="arrow">
+                <i class="fa fa-caret-up" aria-hidden="true"></i>
+            </div>
+            <div class="text">
+                Back to top
+            </div>
+        </div>
+        <script src="/App_Themes/YuLogis/js/WOW-master/wow.min.js"></script>
+        <script src="/App_Themes/YuLogis/js/Magnific-Popup-master/jquery.magnific-popup.min.js"></script>
+        <script src="/App_Themes/YuLogis/js/ms-Dropdown-master/js/msdropdown/jquery.dd.min.js"></script>
+        <script src="/App_Themes/YuLogis/js/main.js"></script>
+        <script>
+            new WOW().init();
+            $("#brand-source").msDropdown();
+        </script>
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v10.0" nonce="unpdfs9j"></script>
+
+        <script>
+            new WOW().init();
+            function isEmpty(str) {
+                return !str.replace(/^\s+/g, '').length; // boolean (`true` if field is empty)
+            }
+            function closewebinfo() {
+                $.ajax({
+                    type: "POST",
+                    url: "/Default.aspx/closewebinfo",
+                    //data: "{ID:'" + id + "',UserName:'" + username + "'}",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (msg) {
+                        if (msg.d == "ok") {
+                            $(".webinfo").remove();
+                        }
+                    },
+                    error: function (xmlhttprequest, textstatus, errorthrow) {
+                        alert('lỗi');
+                    }
+                });
+            }
+        </script>
+        <style>
+            .btn-fixed-social .icon-dt {
+                width: 70px;
+                height: 70px;
+                display: block;
+                position: absolute;
+                bottom: 62px;
+                right: -6px;
+            }
+
+            .btn-fixed-social .icon-zalo {
+                width: 60px;
+                height: 60px;
+                display: block;
+            }
+
+            .btn-fixed-social {
+                position: fixed;
+                bottom: 86px;
+                right: 20px;
+            }
+
+            .scroll-top-link {
+                position: fixed;
+                right: 19px;
+                bottom: 222px;
+                width: 64px;
+                height: 64px;
+                border-radius: 50%;
+                line-height: 38px;
+                font-size: 24px;
+                font-weight: bold;
+                padding: 6px;
+                text-align: center;
+                background-color: #cfd4dd;
+                border: rgba(41, 170, 225, 0.5) 5px solid;
+            }
+
+            .fixed-contact {
+                position: fixed;
+                right: 15px;
+                top: 50%;
+                z-index: 99999;
+                display: inline-block;
+            }
+        </style>
+    </form>
+</body>
+</html>
+
